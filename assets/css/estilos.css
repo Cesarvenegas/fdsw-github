@@ -43,10 +43,14 @@ height: 40%;
   }
 
 }
-.row:hover{
+.box1:hover:hover{
 
   color: rgb(201, 58, 33);
   transition: background-color 0.5s;
 
 }
+.box1:active:active{
 
+    color: chartreuse;
+    transition: background-color 0.5s;
+}
