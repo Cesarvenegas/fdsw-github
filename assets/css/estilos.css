@@ -43,3 +43,9 @@ height: 40%;
   }
 
 }
+.row:hover{
+
+  color: rgb(201, 58, 33);
+  transition: background-color 0.5s;
+
+}
